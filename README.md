@@ -1,2 +1,2 @@
-# Python_code
+# Python_coding
 Python practice problems on Jupyter note book
