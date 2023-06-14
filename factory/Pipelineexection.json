@@ -1,0 +1,9 @@
+{
+	"name": "Pipelineexection",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6b0e963-f948-467a-a509-68cb94ab4cc1",
+		"tenantId": "26a3e84a-98fb-4187-9b45-03bbc38e2f16"
+	}
+}
